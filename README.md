@@ -1,5 +1,5 @@
 # 💫 About Me:
-Test
+I am a Web Developer, WordPress, Shopify and Wix website developer.
 
 
 ## 🌐 Socials:
